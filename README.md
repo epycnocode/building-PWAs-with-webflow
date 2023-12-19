@@ -62,13 +62,5 @@ if (window.matchMedia('(display-mode: standalone)').matches) {
   - Host your PWA files on a web server.
   - Use tools like Lighthouse to test your PWA's performance and offline capabilities.
 
-**Remember:**
-
-  - Start simple and focus on core PWA features like offline access and responsive design.
-  - Test your PWA on various devices and browsers.
-  - Leverage Webflow's visual editor and code export capabilities to build your PWA efficiently.
-
-By embracing these tips and clean code examples, you can transform your Webflow website into a powerful and engaging PWA, offering a next-level mobile experience for your users. Go forth and build the future of web apps!
-
 # Need Help?
 Need custom [Webflow Development](https://epyc.in/)?
